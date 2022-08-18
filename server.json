@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site em React", 
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2022-08-18T18:04:08.231Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger", 
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2022-08-19T18:04:08.231Z"
+    }
+  ]
+}
