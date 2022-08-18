@@ -14,9 +14,8 @@ export function Transactions() {
       <Summary />
 
       <TransactionsContainer>
+        <SearchForm />
 
-        <SearchForm/>
-        
         <TransactionsTable>
           <tbody>
             <tr>
