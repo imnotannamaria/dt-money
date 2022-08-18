@@ -22,7 +22,7 @@ export function NewTransactionModal() {
 
         <form action="">
           <input type="text" placeholder="Descrição" required />
-          <input type="number" placeholder="Preço" required />
+          <input type="number" placeholder="Preço" min="1" required />
           <input type="text" placeholder="Categoria" required />
 
           <TransactionType>
