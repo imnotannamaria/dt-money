@@ -12,6 +12,7 @@ This project was developed with the following technologies:
 - styled-components
 - eslint
 - react-hook-form
+- json-server
 
 ## 💻 Project
 
