@@ -1,18 +1,24 @@
-# Financial control application with React.
+<p align="center">
+  <img alt="Todo" src=".github/DtMoney.png" width="100%">
+</p>
 
-Project created by me using technologies such as:
+## ✨ Technologies
+
+This project was developed with the following technologies:
+
 - React
+- TypeScript
+- radix-ui
 - styled-components
-- Radix UI
+- eslint
+- react-hook-form
 
-## Deploy
+## 💻 Project
 
-To deploy this project, run
+Financial control application with React.
 
-```bash
-  npm install
-```
+## 🚀 Deploy
 
-```bash
-  npm run dev
-```
+- Clone the repository
+- Install dependencies with `npm install`
+- Start the server with `npm run dev`

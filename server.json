@@ -23,6 +23,38 @@
       "category": "Educação",
       "price": 900,
       "createdAt": "2022-08-20T18:04:08.231Z"
+    },
+    {
+      "description": "Roupa",
+      "category": "Básico",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2022-08-29T14:01:30.587Z",
+      "id": 4
+    },
+    {
+      "description": "Site em Wordpress",
+      "category": "Trabalho",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2022-08-29T14:01:48.957Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2022-08-29T14:10:18.993Z",
+      "id": 6
+    },
+    {
+      "description": "Coxinha",
+      "category": "Alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2022-08-29T14:10:48.686Z",
+      "id": 7
     }
   ]
 }
