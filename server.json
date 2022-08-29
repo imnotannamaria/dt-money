@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de site em React", 
+      "description": "Desenvolvimento de site em React",
       "type": "income",
       "category": "Venda",
       "price": 1400,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "description": "Hamburger", 
+      "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
       "price": 40,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "description": "Ignite Node Rocketseat", 
+      "description": "Ignite Node Rocketseat",
       "type": "outcome",
       "category": "Educação",
       "price": 900,
