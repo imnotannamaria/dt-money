@@ -13,6 +13,7 @@ This project was developed with the following technologies:
 - eslint
 - react-hook-form
 - json-server
+- use-context-selector
 
 ## 💻 Project
 
